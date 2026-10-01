@@ -1,0 +1,57 @@
+### Compiled Java ###
+*.class
+out/
+build/
+bin/
+target/
+
+### Packaged files ###
+*.jar
+*.war
+*.zip
+*.rar
+
+### Logs ###
+*.log
+
+### IntelliJ IDEA ###
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+.kotlin
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+._*
+
+### Windows ###
+Thumbs.db
+desktop.ini
+
+### Environment / secrets ###
+.env
+.env.*
+
+### Assignment video (too large for GitHub) ###
+*.mp4
+*.mov
